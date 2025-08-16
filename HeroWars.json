@@ -1,8 +1,103 @@
 [
     {
-        "title": "Get Legal Guidance and Direction",
+        "title": "BFFR with Sydney Leroux & Ali Riley has released a new episode",
         "payout": 24,
-        "id": "92d105ed-086e-4476-88de-d4a7fdcc91ed"
+        "id": "2e35efde-9164-4d43-b0fa-ccf3b31d3860"
+    },
+    {
+        "title": "Lasery Eye Surgery Offers In Your Town",
+        "payout": 24,
+        "id": "866f9183-360c-41b6-9ee1-7ebaa25b97f1"
+    },
+    {
+        "title": "The Triple Option has released a new episode",
+        "payout": 24,
+        "id": "b013a83a-50f1-4cc4-b178-570aba6f571f"
+    },
+    {
+        "title": "Unfiltered Soccer has released a new episode",
+        "payout": 24,
+        "id": "446765c6-0477-4636-b84a-db4ecc5e9de8"
+    },
+    {
+        "title": "HVAC Services to get your home effiecient.",
+        "payout": 37,
+        "id": "1ace846c-72da-42ea-9d03-0054a2b9b461"
+    },
+    {
+        "title": "Find Bathroom Remodelers Near You",
+        "payout": 37,
+        "id": "fbb8e706-eeb6-4cb3-8a7c-942e3e430bfe"
+    },
+    {
+        "title": "Finish the Picture, Earn Your Reward Now!",
+        "payout": 124,
+        "id": "2ecb36f4-3e59-4f45-bf1f-f017e05a6c63"
+    },
+    {
+        "title": "Piece It Right, Get Rewarded Fast!",
+        "payout": 124,
+        "id": "a6609a79-2c17-4841-82da-2d60ef6a1635"
+    },
+    {
+        "title": "Fun Puzzle, Fast Rewards—Play Now!",
+        "payout": 124,
+        "id": "4e89d625-7a42-43e5-ad8a-ced62eabd45d"
+    },
+    {
+        "title": "Stay Ahead with the Latest Trends",
+        "payout": 162,
+        "id": "b0df5f2c-55f0-4a6e-af6f-532b24b1a036"
+    },
+    {
+        "title": "Solve the Puzzle, Score Instant Rewards!",
+        "payout": 124,
+        "id": "4c58b7e0-2805-4c6d-979d-98c9b55360d7"
+    },
+    {
+        "title": "Snap the Pieces in Place for Quick Perks!",
+        "payout": 124,
+        "id": "68cf6458-07ed-48bb-89c7-e5e73d207116"
+    },
+    {
+        "title": "Align the Pieces, Unlock Fast Rewards!",
+        "payout": 124,
+        "id": "40d2ba9c-cc27-4324-9c10-11ddb64d1927"
+    },
+    {
+        "title": "Piece It Right, Get Rewarded Fast!",
+        "payout": 124,
+        "id": "50e9677b-944d-44b6-af05-f0d9d14e3425"
+    },
+    {
+        "title": "Conquer the Puzzle, Collect Rewards Instantly!",
+        "payout": 124,
+        "id": "bd05d0c9-95a3-4af1-b098-2bc5c8886fe9"
+    },
+    {
+        "title": "Follow and listen to true crime audio stories",
+        "payout": 149,
+        "id": "3eccac32-544a-4f09-b991-911eb2bedadc"
+    },
+    {
+        "title": "Search Trending Topics To Get Rewarded",
+        "payout": 187,
+        "id": "918376f8-2328-4055-9f69-f1eab295a675"
+    },
+    {
+        "title": "Free IQ Test",
+        "payout": 237,
+        "id": "a633be37-e715-42f9-8e9b-d96166d3b34d"
+    },
+    {
+        "title": "Piece It Together, Pocket Rewards Right Away!",
+        "payout": 249,
+        "id": "6bce7d22-54ee-43e2-8f1c-07d4d8f77fd2"
+    },
+    {
+        "title": "Dry Eyes? Search treatments and get rewarded.",
+        "payout": 24,
+        "id": "bb9ef06e-d47b-4ee0-8f12-7d5c55a45646"
     },
     {
         "title": "Digital Disruption has released a new episode",
@@ -15,19 +110,14 @@
         "id": "38269163-cb4f-4666-acd9-aa70569985f7"
     },
     {
-        "title": "Loan Solutions Hub",
+        "title": "Find Nursing Degrees and Schooling",
         "payout": 24,
-        "id": "73a09c75-e246-4932-a14a-b23df4b11715"
+        "id": "316b94e5-c108-476c-8b73-75a61aa8ef03"
     },
     {
-        "title": "Complete the Puzzle for Instant Rewards!",
-        "payout": 124,
-        "id": "8f789693-eb55-40f5-964a-8cb82796f8df"
-    },
-    {
-        "title": "Lasery Eye Surgery Offers In Your Town",
+        "title": "Legal Help Hub",
         "payout": 24,
-        "id": "866f9183-360c-41b6-9ee1-7ebaa25b97f1"
+        "id": "da286ad3-7137-4aaf-99ce-d94eaa5edc7d"
     },
     {
         "title": "Health Insurance Savings Hub",
@@ -35,49 +125,69 @@
         "id": "b782a1be-50c6-412a-b57c-e20f3f0403cd"
     },
     {
-        "title": "Check out this content on how to talk to patients about memory loss",
-        "payout": 37,
-        "id": "ced66843-ad10-4b10-9266-14211220cf85"
-    },
-    {
-        "title": "Check out this content on how lower cancer survival is seen for residence in redlined neighborhoods",
-        "payout": 37,
-        "id": "aa8839b6-eb81-4518-ac08-8a241beb732f"
-    },
-    {
-        "title": "Find Bathroom Remodelers Near You",
-        "payout": 37,
-        "id": "fbb8e706-eeb6-4cb3-8a7c-942e3e430bfe"
-    },
-    {
-        "title": "Legal Help Hub",
-        "payout": 37,
-        "id": "da286ad3-7137-4aaf-99ce-d94eaa5edc7d"
-    },
-    {
-        "title": "Renew Your Bathroom - Bathroom Remodeling",
-        "payout": 37,
-        "id": "ca5f3dfc-44e4-438b-8b6b-c9d9f546c082"
-    },
-    {
-        "title": "Check out this content on updated heart disease, stroke statistics for 2025",
-        "payout": 37,
-        "id": "1f5e4da0-b66c-4762-86e7-0a110fd72b6c"
-    },
-    {
         "title": "Check out this content on how injurious falls are common is last years with COPD",
-        "payout": 37,
+        "payout": 49,
         "id": "279f3ab2-55c8-46c7-b6a9-324fd8474867"
     },
     {
+        "title": "Top Rated Debt Consolidation Resources!",
+        "payout": 37,
+        "id": "16b93cb5-3aaf-45bd-b361-2e11812b518a"
+    },
+    {
+        "title": "Loan Solutions Hub",
+        "payout": 37,
+        "id": "73a09c75-e246-4932-a14a-b23df4b11715"
+    },
+    {
+        "title": "Top Rated Side Hustle Ideas!",
+        "payout": 37,
+        "id": "0b01abb8-62ce-400c-8df2-cd590a74659a"
+    },
+    {
+        "title": "Top Rated Life Insurance Resources",
+        "payout": 37,
+        "id": "d1057fd5-e769-468b-baf6-5b35c881e211"
+    },
+    {
+        "title": "Check out the Metrics that Measure Up Podcast",
+        "payout": 37,
+        "id": "27f1ff9d-4e9b-44e2-abfb-f4075df4ca40"
+    },
+    {
+        "title": "Check out this content on how lower cancer survival is seen for residence in redlined neighborhoods",
+        "payout": 49,
+        "id": "aa8839b6-eb81-4518-ac08-8a241beb732f"
+    },
+    {
+        "title": "Check out this content on how to talk to patients about memory loss",
+        "payout": 49,
+        "id": "ced66843-ad10-4b10-9266-14211220cf85"
+    },
+    {
+        "title": "Check out this content on updated heart disease, stroke statistics for 2025",
+        "payout": 49,
+        "id": "1f5e4da0-b66c-4762-86e7-0a110fd72b6c"
+    },
+    {
+        "title": "Pet Insurance Market: Find Affordable Pet Insurance",
+        "payout": 62,
+        "id": "1c5e2c37-e588-47d1-815f-4a844c49ca6e"
+    },
+    {
         "title": "6 Reasons Why People Skip Their HIV Meds",
-        "payout": 99,
+        "payout": 74,
         "id": "e6a9a08d-8592-4862-98eb-e58d770064aa"
     },
     {
-        "title": "Find Car Accident Lawyers",
-        "payout": 124,
-        "id": "eb464966-e23e-452a-873c-3dcfe1a6dd51"
+        "title": "Living and Coping with Hypertrophic Cardiomyopathy (HCM)",
+        "payout": 99,
+        "id": "46366baa-1381-4056-9243-ca0d27bc2fc0"
+    },
+    {
+        "title": "Support and Advice For Those Newly Diagnosed With HIV",
+        "payout": 112,
+        "id": "6d03bd9a-39e4-412b-a2dd-63c322c0b91b"
     },
     {
         "title": "Solve the Puzzle to Quickly Unlock Rewards!",
@@ -85,9 +195,19 @@
         "id": "93f3ce8b-e967-4780-8ac4-236baddcb41e"
     },
     {
-        "title": "Support and Advice For Those Newly Diagnosed With HIV",
-        "payout": 137,
-        "id": "6d03bd9a-39e4-412b-a2dd-63c322c0b91b"
+        "title": "Complete the Puzzle for Instant Rewards!",
+        "payout": 124,
+        "id": "8f789693-eb55-40f5-964a-8cb82796f8df"
+    },
+    {
+        "title": "Check Out Post Moves with Candace Parker & Aliyah Boston Podcast",
+        "payout": 124,
+        "id": "65bc9b05-c9db-4382-bb60-877f258111d7"
+    },
+    {
+        "title": "Check Out The Triple Option Podcast",
+        "payout": 224,
+        "id": "1024365b-0e4c-42f1-a379-809f70c51cb9"
     },
     {
         "title": "Put Together the Pieces for Quick Rewards!",
@@ -95,24 +215,9 @@
         "id": "de744019-ee64-4fe4-8efa-d50521b80e72"
     },
     {
-        "title": "Living and Coping with Hypertrophic Cardiomyopathy (HCM)",
-        "payout": 124,
-        "id": "46366baa-1381-4056-9243-ca0d27bc2fc0"
-    },
-    {
         "title": "Complete the Puzzle for Instant Rewards!",
         "payout": 124,
         "id": "cc6758b6-e628-47d7-bdfd-392c2b51f003"
-    },
-    {
-        "title": "Check Out People Magic",
-        "payout": 162,
-        "id": "92aacd08-b5d9-4769-98f9-dccba3882871"
-    },
-    {
-        "title": "Check Out Unfiltered Soccer Podcast",
-        "payout": 174,
-        "id": "4982cc6f-03d5-4126-9819-e9b13b80e9e8"
     },
     {
         "title": "Check Out BFFR Podcast",
@@ -120,39 +225,19 @@
         "id": "8560601a-87f4-4801-80aa-2cbf5c0170fc"
     },
     {
-        "title": "Check Out Post Moves with Candace Parker & Aliyah Boston Podcast",
-        "payout": 174,
-        "id": "65bc9b05-c9db-4382-bb60-877f258111d7"
-    },
-    {
-        "title": "Check out Well Beyond Medicine Podcast",
-        "payout": 174,
-        "id": "f3e1e72c-92d4-4832-a284-88bf25a80c7a"
-    },
-    {
-        "title": "Check Out The Tony Kinnett Cast Podcast",
-        "payout": 174,
-        "id": "b364bf9f-1e85-4211-af6f-bcc510a8d871"
-    },
-    {
-        "title": "Discover What's Buzzing Now",
+        "title": "Check Out Unfiltered Soccer Podcast",
         "payout": 187,
-        "id": "2f72da7f-7b77-46fe-b25a-b7d44ef0f9fa"
-    },
-    {
-        "title": "Check Out The Triple Option Podcast",
-        "payout": 187,
-        "id": "1024365b-0e4c-42f1-a379-809f70c51cb9"
-    },
-    {
-        "title": "Should you try this diet with Ulcerative Colitis?",
-        "payout": 224,
-        "id": "77f70f2a-4a78-4597-9e0b-e8275da7708a"
+        "id": "4982cc6f-03d5-4126-9819-e9b13b80e9e8"
     },
     {
         "title": "9 Essential Questions to Ask About Your Child’s Food Allergy",
-        "payout": 224,
+        "payout": 199,
         "id": "994ece31-aa47-4385-9ee4-7da4c8617532"
+    },
+    {
+        "title": "7 Lifestyle Tweaks to Make Living With MS Easier",
+        "payout": 224,
+        "id": "8570e6d2-d6f5-4d9d-9971-02cab3598b9a"
     },
     {
         "title": "Finish the Puzzle for Immediate Rewards!",
@@ -160,93 +245,18 @@
         "id": "e40b32fb-c501-4109-aa40-6077baea0d66"
     },
     {
-        "title": "Complete the survey to learn more about top relaxation strategies for those with insomnia.",
-        "payout": 1872,
-        "id": "3dbfdbd2-ba97-47c2-b9ce-a2ade89c4b9a"
-    },
-    {
-        "title": "Check Out On Purpose with Jay Shetty Podcast",
-        "payout": 249,
-        "id": "5ad8967a-2b43-4770-acb2-aae6eb1376d7"
-    },
-    {
-        "title": "10 Questions Quiz!",
-        "payout": 249,
-        "id": "f704a7d2-800f-4892-9e1a-33f0b48d7d15"
-    },
-    {
-        "title": "7 Lifestyle Tweaks to Make Living With MS Easier",
-        "payout": 249,
-        "id": "8570e6d2-d6f5-4d9d-9971-02cab3598b9a"
-    },
-    {
-        "title": "Easy Challenge!",
-        "payout": 249,
-        "id": "c0242135-b994-4045-bc94-f2b5fb6c592b"
-    },
-    {
-        "title": "Earn your Reward answering 11 Questions!",
-        "payout": 287,
-        "id": "ba16a5bc-6abb-44d7-b79b-e068ea9f6db3"
-    },
-    {
-        "title": "Your Crohn’s Disease Flare- Fighting Toolkit",
-        "payout": 299,
-        "id": "07d96547-18ea-41be-a38c-d30cc9d5e478"
-    },
-    {
-        "title": "Earn with the Halloween Spooky Quiz!",
-        "payout": 287,
-        "id": "cd9ce82b-b0aa-4c5f-b8dd-8eb97000a3c4"
-    },
-    {
         "title": "Follow The School of Greatness Podcast",
         "payout": 312,
         "id": "cc576c02-6f25-4f1f-9554-7943a275c488"
     },
     {
-        "title": "Easy Quiz",
-        "payout": 574,
-        "id": "ee98898b-7252-496d-9876-fb26cdb556fb"
-    },
-    {
-        "title": "Complete the survey to receive men's health tips, checklists, and treatment options",
-        "payout": 1872,
-        "id": "ed071a0b-e259-4fa5-8514-cf6033a6e9b5"
-    },
-    {
-        "title": "Do you suffer from Tardive Dyskinesia? Click through the banner and complete the survey to receive your FREE TD Guide!",
-        "payout": 1560,
-        "id": "7f7972f5-882f-428e-8df7-43b195f2e8b5"
+        "title": "Earn your Reward in just 12 Questions!",
+        "payout": 299,
+        "id": "5bc2330d-3171-48e0-aa1d-22e2c5cc5dd2"
     },
     {
         "title": "Check Out this Ad About Chronic Pain Treatment Options",
         "payout": 1872,
         "id": "2df6ca07-3803-4778-bff8-ece7a292bb07"
-    },
-    {
-        "title": "Complete the survey to download your guide to managing chronic pain",
-        "payout": 1872,
-        "id": "cfb03e97-d598-418b-ab0a-176268b219f7"
-    },
-    {
-        "title": "Are you interested in getting tested for genetic COPD?",
-        "payout": 1872,
-        "id": "5b7ff160-73a7-46f3-87c8-ddd102d6f15d"
-    },
-    {
-        "title": "Check Out This Farmers Market Guide For T2 Diabetes",
-        "payout": 1872,
-        "id": "2ad12967-877f-4ecb-94c2-97c04f5d6254"
-    },
-    {
-        "title": "Receive your diabetic friendly cocktail guide!",
-        "payout": 1872,
-        "id": "1f2a6ef5-ba08-4a03-9729-c829bd6cd412"
-    },
-    {
-        "title": "Donate to Help Protect Children from Gun Violence",
-        "payout": 62400,
-        "id": "31ff88ad-a6f0-438c-a278-2bfa72d71e55"
     }
 ]
