@@ -1,17 +1,7 @@
 [
     {
-        "title": "Check out trending searches and earn rewards!",
-        "id": "0cd9301f-eb53-408e-a5a1-e6be97b60c63",
-        "payout": 16
-    },
-    {
-        "title": "Discover Our New Search Engine",
-        "id": "27f29700-fadc-4779-b5be-685d8d1c3318",
-        "payout": 16
-    },
-    {
-        "title": "Post Moves with Candace Parker & Aliyah Boston has released a new episode",
-        "id": "7373bb69-50b3-41f9-885f-e3d56a634196",
+        "title": "Digital Disruption has released a new episode",
+        "id": "46bd4bbb-705e-4a3c-967e-9f05e5d4d497",
         "payout": 32
     },
     {
@@ -20,18 +10,53 @@
         "payout": 32
     },
     {
-        "title": "Unfiltered Soccer has released a new episode",
-        "id": "446765c6-0477-4636-b84a-db4ecc5e9de8",
-        "payout": 32
+        "title": "Check out the Saas Talk Podcast",
+        "id": "5f82623b-85c8-4278-81a0-19f1f8b6d4d8",
+        "payout": 48
     },
     {
-        "title": "Finish the Picture, Earn Your Reward Now!",
-        "id": "2ecb36f4-3e59-4f45-bf1f-f017e05a6c63",
-        "payout": 161
+        "title": "Check out the Metrics that Measure Up Podcast",
+        "id": "27f1ff9d-4e9b-44e2-abfb-f4075df4ca40",
+        "payout": 48
+    },
+    {
+        "title": "Check out top search results from our search partners",
+        "id": "61c9f879-0fb1-48f8-a2f8-607ec93e75b3",
+        "payout": 56
+    },
+    {
+        "title": "Check out this content on how to talk to patients about memory loss",
+        "id": "ced66843-ad10-4b10-9266-14211220cf85",
+        "payout": 64
+    },
+    {
+        "title": "Check out this content on how lower cancer survival is seen for residence in redlined neighborhoods",
+        "id": "aa8839b6-eb81-4518-ac08-8a241beb732f",
+        "payout": 64
+    },
+    {
+        "title": "Check out this content on updated heart disease, stroke statistics for 2025",
+        "id": "1f5e4da0-b66c-4762-86e7-0a110fd72b6c",
+        "payout": 64
+    },
+    {
+        "title": "Check out this content on how injurious falls are common is last years with COPD",
+        "id": "279f3ab2-55c8-46c7-b6a9-324fd8474867",
+        "payout": 64
     },
     {
         "title": "Piece It Right, Get Rewarded Fast!",
         "id": "a6609a79-2c17-4841-82da-2d60ef6a1635",
+        "payout": 161
+    },
+    {
+        "title": "Follow The School of Greatness Podcast",
+        "id": "753aa2a2-07dc-4647-87e8-3ecd6b7a9204",
+        "payout": 129
+    },
+    {
+        "title": "Fun Puzzle, Fast Rewards—Play Now!",
+        "id": "4e89d625-7a42-43e5-ad8a-ced62eabd45d",
         "payout": 161
     },
     {
@@ -40,18 +65,8 @@
         "payout": 161
     },
     {
-        "title": "Fun Puzzle, Fast Rewards—Play Now!",
-        "id": "4e89d625-7a42-43e5-ad8a-ced62eabd45d",
-        "payout": 161
-    },
-    {
         "title": "Piece It Right, Get Rewarded Fast!",
         "id": "50e9677b-944d-44b6-af05-f0d9d14e3425",
-        "payout": 161
-    },
-    {
-        "title": "Solve the Puzzle, Score Instant Rewards!",
-        "id": "4c58b7e0-2805-4c6d-979d-98c9b55360d7",
         "payout": 161
     },
     {
@@ -60,9 +75,34 @@
         "payout": 161
     },
     {
+        "title": "Check Out Post Moves with Candace Parker & Aliyah Boston Podcast",
+        "id": "65bc9b05-c9db-4382-bb60-877f258111d7",
+        "payout": 161
+    },
+    {
         "title": "Conquer the Puzzle, Collect Rewards Instantly!",
         "id": "bd05d0c9-95a3-4af1-b098-2bc5c8886fe9",
         "payout": 161
+    },
+    {
+        "title": "Check out Well Beyond Medicine Podcast",
+        "id": "f3e1e72c-92d4-4832-a284-88bf25a80c7a",
+        "payout": 161
+    },
+    {
+        "title": "Check Out The Stephen J Cloobeck Podcast",
+        "id": "b9e20613-437e-4f7b-af40-fdd84cddd64d",
+        "payout": 178
+    },
+    {
+        "title": "Finish the Picture, Earn Your Reward Now!",
+        "id": "2ecb36f4-3e59-4f45-bf1f-f017e05a6c63",
+        "payout": 161
+    },
+    {
+        "title": "Check out Do This, NOT That Podcast",
+        "id": "ebc35964-83bf-4598-9765-504adfabb3f8",
+        "payout": 323
     },
     {
         "title": "Piece It Together, Pocket Rewards Right Away!",
@@ -70,13 +110,63 @@
         "payout": 323
     },
     {
-        "title": "Help scientists while playing a fun game. It’s a no-brainer.",
-        "id": "92c37742-c79c-4552-aeff-3e392dfe319c",
-        "payout": 4857
+        "title": "9 Essential Questions to Ask About Your Child’s Food Allergy",
+        "id": "994ece31-aa47-4385-9ee4-7da4c8617532",
+        "payout": 340
     },
     {
-        "title": "Get Rewarded For Visiting Our Search Results Page",
-        "id": "126bc60f-81a9-4f2f-8c2c-c3ee1969929f",
+        "title": "Are you struggling with breathing problems? Complete the survey to get a free genetic testing kit for COPD.",
+        "id": "45d7e4f1-66c6-43cd-9204-d2f493e045f5",
+        "payout": 2024
+    },
+    {
+        "title": "Check Out this Ad About Chronic Pain Treatment Options",
+        "id": "2df6ca07-3803-4778-bff8-ece7a292bb07",
+        "payout": 2428
+    },
+    {
+        "title": "Do you suffer from Tardive Dyskinesia? Click through the banner and complete the survey to receive your FREE TD Guide!",
+        "id": "7f7972f5-882f-428e-8df7-43b195f2e8b5",
+        "payout": 2024
+    },
+    {
+        "title": "Complete the survey to download your guide to managing chronic pain",
+        "id": "cfb03e97-d598-418b-ab0a-176268b219f7",
+        "payout": 2428
+    },
+    {
+        "title": "Do you suffer from COPD? Click through the banner and complete the survey to receive your FREE COPD Food Guide!",
+        "id": "ef64d504-5d81-4f86-b3be-307652ba28a9",
+        "payout": 2428
+    },
+    {
+        "title": "Are you struggling with sleep problems? Complete the survey for treatment options.",
+        "id": "21bcca2a-6410-4581-b395-1253d83c5df1",
+        "payout": 2428
+    },
+    {
+        "title": "Are you struggling with muscle weakness and mobility limitations? Sign up for more resources on spinal muscular atrophy",
+        "id": "c921f78d-c5a2-4907-8c89-31ae9a703e96",
+        "payout": 2428
+    },
+    {
+        "title": "Complete the survey to receive men's health tips, checklists, and treatment options",
+        "id": "ed071a0b-e259-4fa5-8514-cf6033a6e9b5",
+        "payout": 2428
+    },
+    {
+        "title": "Complete the survey for your guide to diabetes-friendly snack ideas to store in your kitchen.",
+        "id": "d3ae9fa0-d194-42c3-8a31-bfd3cb38f313",
+        "payout": 3643
+    },
+    {
+        "title": "Interact with search results from our new search engine and get rewarded!",
+        "id": "e8917a95-1e82-4686-8ffd-9c09a0c917a0",
+        "payout": 32
+    },
+    {
+        "title": "Search, Discover, and Get Rewarded!",
+        "id": "9097e159-f15d-4173-a636-dfe4d1fbf4a8",
         "payout": 8
     },
     {
@@ -85,23 +175,23 @@
         "payout": 8
     },
     {
-        "title": "Search, Discover, and Get Rewarded!",
-        "id": "9097e159-f15d-4173-a636-dfe4d1fbf4a8",
-        "payout": 8
-    },
-    {
         "title": "Unlock rewards by engaging with search results!",
         "id": "983b707c-b601-4d4f-be50-1f349efb383b",
         "payout": 8
     },
     {
-        "title": "Click to search and earn rewards",
-        "id": "87996ffb-afa0-45e7-9c9d-b82864705fd5",
+        "title": "Use our search engine to search for results, view offers and get rewarded",
+        "id": "0ac6e272-ce91-4411-b302-8b5d249765dc",
         "payout": 8
     },
     {
-        "title": "Use our search engine to search for results, view offers and get rewarded",
-        "id": "0ac6e272-ce91-4411-b302-8b5d249765dc",
+        "title": "Get Rewarded For Visiting Our Search Results Page",
+        "id": "126bc60f-81a9-4f2f-8c2c-c3ee1969929f",
+        "payout": 8
+    },
+    {
+        "title": "Click to search and earn rewards",
+        "id": "87996ffb-afa0-45e7-9c9d-b82864705fd5",
         "payout": 8
     },
     {
@@ -115,6 +205,11 @@
         "payout": 8
     },
     {
+        "title": "Easy Rewards: Tap & Click the First Sponsored Result",
+        "id": "12d10378-374a-4919-b039-4afb3f5a5cb0",
+        "payout": 16
+    },
+    {
         "title": "Ready to earn rewards? Click 'See It' and discover sponsored results",
         "id": "3e13f433-88be-4229-8dde-c31c8edbd404",
         "payout": 8
@@ -125,18 +220,8 @@
         "payout": 16
     },
     {
-        "title": "Ready to Earn? Click 'See It' and Claim Your Rewards!",
-        "id": "eb996fe1-eee5-47b8-ae13-16beba027bfb",
-        "payout": 24
-    },
-    {
-        "title": "Click to search and engage with new search results",
-        "id": "21d6ae08-ffe8-4fa3-a3b1-aed8f1dfe72c",
-        "payout": 16
-    },
-    {
-        "title": "Easy Rewards: Tap & Click the First Sponsored Result",
-        "id": "12d10378-374a-4919-b039-4afb3f5a5cb0",
+        "title": "Rewards await just for diving into interesting sponsored results. Click to explore!",
+        "id": "0526487b-715e-4fc5-9b0b-44673ddda85e",
         "payout": 16
     },
     {
@@ -145,8 +230,8 @@
         "payout": 16
     },
     {
-        "title": "Rewards await just for diving into interesting sponsored results. Click to explore!",
-        "id": "0526487b-715e-4fc5-9b0b-44673ddda85e",
+        "title": "Click to search and engage with new search results",
+        "id": "21d6ae08-ffe8-4fa3-a3b1-aed8f1dfe72c",
         "payout": 16
     },
     {
@@ -155,8 +240,8 @@
         "payout": 16
     },
     {
-        "title": "Earn rewards - Explore sponsored results and click ’See It!’",
-        "id": "96d22136-664f-436a-806c-4d63d25e4b07",
+        "title": "Check out trending searches and earn rewards!",
+        "id": "0cd9301f-eb53-408e-a5a1-e6be97b60c63",
         "payout": 16
     },
     {
@@ -165,28 +250,23 @@
         "payout": 16
     },
     {
+        "title": "Earn rewards - Explore sponsored results and click ’See It!’",
+        "id": "96d22136-664f-436a-806c-4d63d25e4b07",
+        "payout": 16
+    },
+    {
         "title": "Earn Rewards - Click Here to Explore Sponsored Listings!",
         "id": "79bf94d3-a44b-4112-b310-6e3bb04b52b4",
         "payout": 16
     },
     {
+        "title": "Discover Our New Search Engine",
+        "id": "27f29700-fadc-4779-b5be-685d8d1c3318",
+        "payout": 16
+    },
+    {
         "title": "Earn rewards quickly and easily by simply clicking on search results!",
         "id": "b00f6b8b-e0d5-42f0-be22-9f9f887df769",
-        "payout": 16
-    },
-    {
-        "title": "Interact with search results from our new search engine and get rewarded!",
-        "id": "e8917a95-1e82-4686-8ffd-9c09a0c917a0",
-        "payout": 32
-    },
-    {
-        "title": "Quick Rewards: Search and Tap the Top Ad",
-        "id": "602a6a9c-dd30-4500-a015-92a5aaf13c9c",
-        "payout": 16
-    },
-    {
-        "title": "Explore and Earn. Click to check out new search results.",
-        "id": "2e41047b-68f7-4141-b724-94a7d937e4f2",
         "payout": 16
     },
     {
@@ -200,8 +280,18 @@
         "payout": 23
     },
     {
-        "title": "Check out our new search site and get rewarded",
-        "id": "4a5392fd-b5ed-4c39-a273-615e720aed0c",
+        "title": "Explore and Earn. Click to check out new search results.",
+        "id": "2e41047b-68f7-4141-b724-94a7d937e4f2",
+        "payout": 16
+    },
+    {
+        "title": "Quick Rewards: Search and Tap the Top Ad",
+        "id": "602a6a9c-dd30-4500-a015-92a5aaf13c9c",
+        "payout": 16
+    },
+    {
+        "title": "Discover Top Cars With Our New Search Engine",
+        "id": "11df96cd-dc11-4802-915f-0f2164521d88",
         "payout": 24
     },
     {
@@ -215,19 +305,24 @@
         "payout": 24
     },
     {
-        "title": "Discover Top Cars With Our New Search Engine",
-        "id": "11df96cd-dc11-4802-915f-0f2164521d88",
+        "title": "Tap Sponsored Results and Earn Rewards Instantly!",
+        "id": "d626c0c5-7a1a-47e4-8365-0a812c5fc09a",
         "payout": 24
     },
     {
-        "title": "Tap Sponsored Results and Earn Rewards Instantly!",
-        "id": "d626c0c5-7a1a-47e4-8365-0a812c5fc09a",
+        "title": "Check out our new search site and get rewarded",
+        "id": "4a5392fd-b5ed-4c39-a273-615e720aed0c",
         "payout": 24
     },
     {
         "title": "Explore Sponsored Results For Quick Rewards!",
         "id": "a65099db-de62-47b3-aa74-a9bd095346bc",
         "payout": 24
+    },
+    {
+        "title": "Get rewarded by exploring sponsored search results!",
+        "id": "a1490a1d-1488-4f03-8d33-d8cb41f2f4b8",
+        "payout": 56
     },
     {
         "title": "Earn More - Click See It for Instant Gratification!",
@@ -240,8 +335,8 @@
         "payout": 24
     },
     {
-        "title": "View Most Searched For Search Topics And Get Rewarded",
-        "id": "f6a9ca10-0a15-4401-a5e2-5bd5078b1882",
+        "title": "Explore new content, click sponsored ads and get rewarded instantly!",
+        "id": "d414cbad-d8b1-424a-b491-d1fe5babc966",
         "payout": 24
     },
     {
@@ -250,8 +345,8 @@
         "payout": 24
     },
     {
-        "title": "Explore new content, click sponsored ads and get rewarded instantly!",
-        "id": "d414cbad-d8b1-424a-b491-d1fe5babc966",
+        "title": "View Most Searched For Search Topics And Get Rewarded",
+        "id": "f6a9ca10-0a15-4401-a5e2-5bd5078b1882",
         "payout": 24
     },
     {
@@ -260,13 +355,23 @@
         "payout": 32
     },
     {
-        "title": "Digital Disruption has released a new episode",
-        "id": "46bd4bbb-705e-4a3c-967e-9f05e5d4d497",
-        "payout": 32
+        "title": "Complete the Puzzle for Instant Rewards!",
+        "id": "8f789693-eb55-40f5-964a-8cb82796f8df",
+        "payout": 161
     },
     {
         "title": "Check Out The Podcast Top 5",
         "id": "38269163-cb4f-4666-acd9-aa70569985f7",
+        "payout": 32
+    },
+    {
+        "title": "Earn Rewards for Clicking Sponsored Results – Easy Points!",
+        "id": "af3947c3-3b9b-4a43-a979-44ab57c5c2e0",
+        "payout": 44
+    },
+    {
+        "title": "Discover a more rewarding way to search",
+        "id": "5f778dc1-388e-4812-91c2-44676f683885",
         "payout": 32
     },
     {
@@ -275,23 +380,18 @@
         "payout": 32
     },
     {
-        "title": "Discover a more rewarding way to search",
-        "id": "5f778dc1-388e-4812-91c2-44676f683885",
-        "payout": 32
-    },
-    {
         "title": "Check Out Our Search Partners And Get Rewarded",
         "id": "01927c1b-7d55-483c-9d9c-285eae6158af",
         "payout": 32
     },
     {
-        "title": "Get Your Reward: Just Click a Sponsored Link",
-        "id": "c4ab0d8b-bb02-4289-a70d-49ab3d109906",
+        "title": "Help Grow Our Website!  Search Articles & Learn.",
+        "id": "0e03e003-8518-46e7-9929-c60f2ca82b84",
         "payout": 32
     },
     {
-        "title": "Help Grow Our Website!  Search Articles & Learn.",
-        "id": "0e03e003-8518-46e7-9929-c60f2ca82b84",
+        "title": "Get Your Reward: Just Click a Sponsored Link",
+        "id": "c4ab0d8b-bb02-4289-a70d-49ab3d109906",
         "payout": 32
     },
     {
@@ -305,19 +405,9 @@
         "payout": 32
     },
     {
-        "title": "Click Sponsored Results and Earn Your Rewards",
-        "id": "6e6866e0-b9b4-4ff1-bfc2-f34a51996701",
-        "payout": 40
-    },
-    {
         "title": "Visit Our Search Engine To Earn Rewards!",
         "id": "ff570202-dab4-4071-860e-d8a09e1fc052",
         "payout": 40
-    },
-    {
-        "title": "Earn Rewards for Clicking Sponsored Results – Easy Points!",
-        "id": "af3947c3-3b9b-4a43-a979-44ab57c5c2e0",
-        "payout": 44
     },
     {
         "title": "Earn rewards for visiting search results",
@@ -325,9 +415,9 @@
         "payout": 40
     },
     {
-        "title": "Search Interesting Topics And Get Rewarded!",
-        "id": "7c5118dd-492f-436f-9d14-166c67917df5",
-        "payout": 48
+        "title": "Click Sponsored Results and Earn Your Rewards",
+        "id": "6e6866e0-b9b4-4ff1-bfc2-f34a51996701",
+        "payout": 40
     },
     {
         "title": "Tap to Earn — Click the Ad on the Next Page!",
@@ -345,24 +435,9 @@
         "payout": 48
     },
     {
-        "title": "Ready to Earn? Click See It, Explore Sponsored Results, Earn Points!",
-        "id": "6ab5b561-e531-40ac-8bab-cb3fd14914ea",
-        "payout": 52
-    },
-    {
         "title": "Click 'See It' to be Rewarded. Dive into Sponsored Results Now!",
         "id": "8103b1fb-7c10-44a1-9182-4db11f65e10a",
         "payout": 52
-    },
-    {
-        "title": "Click 'See It' For Instant Rewards! Explore Sponsored Results Now!",
-        "id": "a4a3660f-0bb1-4f90-a453-db15b1781cbb",
-        "payout": 56
-    },
-    {
-        "title": "Get rewarded by exploring sponsored search results!",
-        "id": "a1490a1d-1488-4f03-8d33-d8cb41f2f4b8",
-        "payout": 56
     },
     {
         "title": "Unlock rewards with sponsored results. Click 'See It' to dive in.",
@@ -370,14 +445,14 @@
         "payout": 56
     },
     {
-        "title": "Visit Our Search Results",
-        "id": "a8e96713-6c96-4c3d-9cd8-18464a07b933",
-        "payout": 64
+        "title": "Click 'See It' For Instant Rewards! Explore Sponsored Results Now!",
+        "id": "a4a3660f-0bb1-4f90-a453-db15b1781cbb",
+        "payout": 56
     },
     {
-        "title": "Check out this content on how injurious falls are common is last years with COPD",
-        "id": "279f3ab2-55c8-46c7-b6a9-324fd8474867",
-        "payout": 64
+        "title": "Earn Rewards From Searching!",
+        "id": "5961d6a8-cf1f-4cd7-8a86-90075ea8158f",
+        "payout": 76
     },
     {
         "title": "Click ’See It!’ and Earn Rewards!",
@@ -390,18 +465,18 @@
         "payout": 76
     },
     {
-        "title": "Earn Rewards From Searching!",
-        "id": "5961d6a8-cf1f-4cd7-8a86-90075ea8158f",
-        "payout": 76
-    },
-    {
-        "title": "Complete the Puzzle for Instant Rewards!",
-        "id": "8f789693-eb55-40f5-964a-8cb82796f8df",
+        "title": "Solve the Puzzle to Quickly Unlock Rewards!",
+        "id": "93f3ce8b-e967-4780-8ac4-236baddcb41e",
         "payout": 161
     },
     {
-        "title": "Solve the Puzzle to Quickly Unlock Rewards!",
-        "id": "93f3ce8b-e967-4780-8ac4-236baddcb41e",
+        "title": "Support and Advice For Those Newly Diagnosed With HIV",
+        "id": "6d03bd9a-39e4-412b-a2dd-63c322c0b91b",
+        "payout": 145
+    },
+    {
+        "title": "Complete the Puzzle for Instant Rewards!",
+        "id": "cc6758b6-e628-47d7-bdfd-392c2b51f003",
         "payout": 161
     },
     {
@@ -410,9 +485,9 @@
         "payout": 161
     },
     {
-        "title": "Check Out Post Moves with Candace Parker & Aliyah Boston Podcast",
-        "id": "65bc9b05-c9db-4382-bb60-877f258111d7",
-        "payout": 161
+        "title": "Follow and listen to true crime audio stories",
+        "id": "3eccac32-544a-4f09-b991-911eb2bedadc",
+        "payout": 194
     },
     {
         "title": "Check Out James Reed: all about business Podcast",
@@ -420,24 +495,9 @@
         "payout": 161
     },
     {
-        "title": "Complete the Puzzle for Instant Rewards!",
-        "id": "cc6758b6-e628-47d7-bdfd-392c2b51f003",
-        "payout": 161
-    },
-    {
-        "title": "Follow and listen to true crime audio stories",
-        "id": "3eccac32-544a-4f09-b991-911eb2bedadc",
-        "payout": 194
-    },
-    {
         "title": "Finish the Puzzle for Immediate Rewards!",
         "id": "e40b32fb-c501-4109-aa40-6077baea0d66",
         "payout": 291
-    },
-    {
-        "title": "Check out Do This, NOT That Podcast",
-        "id": "ebc35964-83bf-4598-9765-504adfabb3f8",
-        "payout": 356
     },
     {
         "title": "Check Out Unfiltered Soccer Podcast",
@@ -448,5 +508,10 @@
         "title": "Follow The School of Greatness Podcast",
         "id": "cc576c02-6f25-4f1f-9554-7943a275c488",
         "payout": 404
+    },
+    {
+        "title": "Test your focus. Play the MindCrowd brain games.",
+        "id": "92c37742-c79c-4552-aeff-3e392dfe319c",
+        "payout": 4857
     }
 ]
