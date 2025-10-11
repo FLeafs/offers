@@ -732,11 +732,286 @@
     {
         "title": "Take a Survey on Digital Disruption with Geoff Nielson",
         "id": "4723d263-c912-47c9-9d6c-e0e1dfc8a8c6",
-        "payout": 3238
+        "payout": 4048
     },
     {
         "title": "Complete the survey for your guide to diabetes-friendly snack ideas to store in your kitchen.",
         "id": "d3ae9fa0-d194-42c3-8a31-bfd3cb38f313",
         "payout": 3643
+    },
+    {
+        "title": "Conquer the Puzzle, Collect Rewards Instantly!",
+        "id": "bd05d0c9-95a3-4af1-b098-2bc5c8886fe9",
+        "payout": 161
+    },
+    {
+        "title": "Check Out The Triple Option Podcast",
+        "id": "e63ac504-6d41-4e00-a81a-c42be8179602",
+        "payout": 161
+    },
+    {
+        "title": "Free Health Insurance Quote - Find Best Options",
+        "id": "96f85faf-6a81-4249-9796-db1fcee0d4c3",
+        "payout": 809
+    },
+    {
+        "title": "Legal Help Hub",
+        "id": "da286ad3-7137-4aaf-99ce-d94eaa5edc7d",
+        "payout": 16
+    },
+    {
+        "title": "Compare Insurance Plans & Save Money",
+        "id": "672c402b-4ba9-4fbf-a3b3-2ba716ba6809",
+        "payout": 32
+    },
+    {
+        "title": "Find Mental Health Support Options",
+        "id": "6caee5c3-8fcc-4fb4-bb92-e72aa0c45d7a",
+        "payout": 32
+    },
+    {
+        "title": "Discover interesting sponsored search results. Click See it and earn now!",
+        "id": "6fa505ad-6894-4ae9-bee1-a2acbed869e3",
+        "payout": 48
+    },
+    {
+        "title": "Help Grow Our Website!  Search Articles & Learn.",
+        "id": "0e03e003-8518-46e7-9929-c60f2ca82b84",
+        "payout": 32
+    },
+    {
+        "title": "Check out our sponsored search results and get rewarded!",
+        "id": "4ff4ea1e-e8e7-4dbf-b980-66326056ebb5",
+        "payout": 32
+    },
+    {
+        "title": "Ready to Earn? Click 'See It' and Claim Your Rewards!",
+        "id": "eb996fe1-eee5-47b8-ae13-16beba027bfb",
+        "payout": 40
+    },
+    {
+        "title": "Ready to Earn? Click See It, Explore Sponsored Results, Earn Points!",
+        "id": "6ab5b561-e531-40ac-8bab-cb3fd14914ea",
+        "payout": 52
+    },
+    {
+        "title": "Check Out Digital Disruption Podcast",
+        "id": "7c352b9a-f984-43fc-a727-f998d64fd58c",
+        "payout": 145
+    },
+    {
+        "title": "Put Together the Pieces for Quick Rewards!",
+        "id": "de744019-ee64-4fe4-8efa-d50521b80e72",
+        "payout": 161
+    },
+    {
+        "title": "Your Free Health Insurance Quote - Start Now!",
+        "id": "9ad4f79c-73d8-466e-aea2-419e84b93cd8",
+        "payout": 647
+    },
+    {
+        "title": "Save On Auto Insurance - Get Free Quote",
+        "id": "e41c9686-934d-4f3d-9028-dc1456d253d1",
+        "payout": 809
+    },
+    {
+        "title": "Take a Survey on Behind the Review: Customer Service Wins: The Pest Brothers’ Journey from Startup to Standout",
+        "id": "39138030-5d22-453a-b6ba-3e9a8b5801af",
+        "payout": 5100
+    },
+    {
+        "title": "Tap to Explore & Collect Rewards Instantly",
+        "id": "398cc1bb-a7d7-40ed-80c1-03740c13e3e6",
+        "payout": 32
+    },
+    {
+        "title": "Get Rewarded for Visiting Featured Results",
+        "id": "6ea9aa50-7d06-4cd7-aba3-8a8f92571a73",
+        "payout": 40
+    },
+    {
+        "title": "Sponsored Results = More Rewards for You",
+        "id": "b2bc2cd9-502d-4cfb-99b8-34158a775c8a",
+        "payout": 32
+    },
+    {
+        "title": "Visit Offers, Earn Instantly — It’s That Simple",
+        "id": "aff2283b-bbd9-4856-8e39-46183dddf4bc",
+        "payout": 32
+    },
+    {
+        "title": "Click Through Sponsored Content, Earn Rewards",
+        "id": "e4ffaeac-e860-46e1-be92-7ff037a9979f",
+        "payout": 32
+    },
+    {
+        "title": "Protect Your Family With the Best Insurance Options",
+        "id": "9f584005-5106-4224-b458-3ebd3438b62a",
+        "payout": 32
+    },
+    {
+        "title": "Browse Sponsored Offers & Collect Instantly",
+        "id": "070c3ca5-6e00-46da-bbef-aa89d03c3a96",
+        "payout": 32
+    },
+    {
+        "title": "Discover Limited-Time Sponsored Deals",
+        "id": "7d261866-d59f-4ee6-a39a-080d3833c275",
+        "payout": 40
+    },
+    {
+        "title": "Claim Rewards — Just Click and Continue!",
+        "id": "5c0e7f4b-80e9-4ea8-9fb2-e4a4e090325a",
+        "payout": 40
+    },
+    {
+        "title": "Sponsored Deals Await — Start Earning Now",
+        "id": "625df0ea-9ec7-426d-a76f-d8bb2078fa0d",
+        "payout": 40
+    },
+    {
+        "title": "Unlock Rewards by Checking Out Sponsored Results",
+        "id": "aec0461d-e240-4657-b37a-5eda04c3314a",
+        "payout": 40
+    },
+    {
+        "title": "Discover Sponsored Offers To Get Rewarded",
+        "id": "c4f568bf-fe42-49f5-b322-b4d4ae08360a",
+        "payout": 40
+    },
+    {
+        "title": "Explore New Offers & Earn Today",
+        "id": "084c5e34-103f-4ef2-84a3-f5d0dc49ebb5",
+        "payout": 48
+    },
+    {
+        "title": "Click to view offers in search results",
+        "id": "8d2c09cc-1263-4ce2-bb30-dfbafc794edf",
+        "payout": 52
+    },
+    {
+        "title": "Visit Our Search Engine To Get Rewarded!",
+        "id": "7a6f7a71-8d1a-4487-be87-83161c8af3de",
+        "payout": 60
+    },
+    {
+        "title": "Flash Flag Quiz",
+        "id": "4f5f66b6-8235-4bc8-bc3c-b49b58b01115",
+        "payout": 48
+    },
+    {
+        "title": "Today's free Quiz",
+        "id": "7522bae6-fab7-4117-bd19-fe74cc3364a2",
+        "payout": 178
+    },
+    {
+        "title": "Easy Math Quiz – A Quick Win!",
+        "id": "e51fea74-dbfe-4c9f-b9a3-d7924a98ec14",
+        "payout": 35
+    },
+    {
+        "title": "Spin the Lucky Wheel!",
+        "id": "eb08f53e-68ab-48e4-92a0-2f2bda80045d",
+        "payout": 48
+    },
+    {
+        "title": "Play Sudoku!",
+        "id": "0d890c93-9fa8-4416-adda-0339eb2c8dd9",
+        "payout": 48
+    },
+    {
+        "title": "Free Spin",
+        "id": "197807fb-45c1-43fb-94a2-f81e62c4021a",
+        "payout": 61
+    },
+    {
+        "title": "Logo Puzzle",
+        "id": "32bd75aa-80eb-40b7-ba19-1e6d0528eb48",
+        "payout": 64
+    },
+    {
+        "title": "Halloween Math Quiz",
+        "id": "aea1a4af-5b44-4acc-aa31-dff819a04fd7",
+        "payout": 58
+    },
+    {
+        "title": "Quick Quiz",
+        "id": "5f2a0e95-29a8-496f-a836-b3941d14c2d2",
+        "payout": 64
+    },
+    {
+        "title": "Easy math test",
+        "id": "ff0b1d86-5fff-465f-aeeb-392a9995a797",
+        "payout": 103
+    },
+    {
+        "title": "Fun Color Test",
+        "id": "90f19887-ffc1-46ba-b68c-5ba41d8bef5e",
+        "payout": 84
+    },
+    {
+        "title": "1 Minute Quiz!",
+        "id": "e8fda709-93a6-4c94-90fe-431af489bbeb",
+        "payout": 80
+    },
+    {
+        "title": "10-Question Memory Game",
+        "id": "77bc67c9-ebcb-4cc2-a713-a7c4b9c4607e",
+        "payout": 194
+    },
+    {
+        "title": "Today's Free Spin",
+        "id": "93fc40d9-2505-40c0-967e-9c79b06d265e",
+        "payout": 210
+    },
+    {
+        "title": "1 Minute Quiz!",
+        "id": "0e9d85bb-0075-4e05-a53e-041f1a418090",
+        "payout": 210
+    },
+    {
+        "title": "2-minute Quiz",
+        "id": "2fc02365-ccdd-4fa5-9ee2-3d5103c431ff",
+        "payout": 210
+    },
+    {
+        "title": "Easy Video Quiz",
+        "id": "d76094f2-c45d-4ed1-8992-7e46d86bcd8d",
+        "payout": 242
+    },
+    {
+        "title": "Free Halloween Spin",
+        "id": "6db605a3-b445-46f1-be0c-80dfd746624c",
+        "payout": 210
+    },
+    {
+        "title": "Daily Math Quiz",
+        "id": "a6798f60-42db-4f98-984f-15e338071370",
+        "payout": 226
+    },
+    {
+        "title": "Boo! Spin for Reward",
+        "id": "40db1a09-e431-4f1a-bd52-2eb27eb35b2a",
+        "payout": 291
+    },
+    {
+        "title": "Easy Free Quiz",
+        "id": "0534da70-c7ec-4d87-9ddd-980a2794484c",
+        "payout": 275
+    },
+    {
+        "title": "Free Daily Spin!",
+        "id": "3597bba0-40a5-401a-a90e-9b70bd55bed4",
+        "payout": 356
+    },
+    {
+        "title": "5 Easy Questions, Instant Reward!",
+        "id": "cb4c8627-da2b-435c-b6ab-cb053f92b4f1",
+        "payout": 323
+    },
+    {
+        "title": "Attention Men! Check Out this Ad About Health Tips and Treatment Options.",
+        "id": "35d904ab-4042-4d86-a3b6-e8f573a9d396",
+        "payout": 2428
     }
 ]
