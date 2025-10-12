@@ -673,5 +673,60 @@
         "title": "Complete the survey for your guide to diabetes-friendly snack ideas to store in your kitchen.",
         "id": "d3ae9fa0-d194-42c3-8a31-bfd3cb38f313",
         "payout": 3643
+    },
+    {
+        "title": "Fun Color Test",
+        "id": "90f19887-ffc1-46ba-b68c-5ba41d8bef5e",
+        "payout": 84
+    },
+    {
+        "title": "Free Halloween Spin",
+        "id": "6db605a3-b445-46f1-be0c-80dfd746624c",
+        "payout": 210
+    },
+    {
+        "title": "Today's free Quiz",
+        "id": "7522bae6-fab7-4117-bd19-fe74cc3364a2",
+        "payout": 178
+    },
+    {
+        "title": "Amazonギフト1000円分もらえる!プレゼント",
+        "id": "d93c993a-9208-400d-856f-bb90015a0f99",
+        "payout": 809
+    },
+    {
+        "title": "ふるさと納税アンケート",
+        "id": "0eea62a7-941e-429d-97e9-d8862599f862",
+        "payout": 4048
+    },
+    {
+        "title": "Flash Flag Quiz",
+        "id": "4f5f66b6-8235-4bc8-bc3c-b49b58b01115",
+        "payout": 48
+    },
+    {
+        "title": "Quick Quiz",
+        "id": "5f2a0e95-29a8-496f-a836-b3941d14c2d2",
+        "payout": 58
+    },
+    {
+        "title": "10-Question Memory Game",
+        "id": "77bc67c9-ebcb-4cc2-a713-a7c4b9c4607e",
+        "payout": 194
+    },
+    {
+        "title": "2-minute Quiz",
+        "id": "2fc02365-ccdd-4fa5-9ee2-3d5103c431ff",
+        "payout": 210
+    },
+    {
+        "title": "カンタン！楽チン！アンケート|資産形成に関するアンケート",
+        "id": "47b5771b-4bb0-433c-96fd-6fc6c7bfab05",
+        "payout": 4857
+    },
+    {
+        "title": "ABEMAプレミアム（1,080円）登録完了",
+        "id": "a802c014-8677-406a-b552-76fb2776e621",
+        "payout": 20240
     }
 ]
